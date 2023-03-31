@@ -1,6 +1,6 @@
 Name:		texlive-tlmgr-intro-zh-cn
 Version:	59100
-Release:	1
+Release:	2
 Summary:	A short tutorial on using tlmgr in Chinese
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tlmgr-intro-zh-cn
